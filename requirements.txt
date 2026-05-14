@@ -1,0 +1,7 @@
+# Конфигурационный файл зависимостей веб-приложения проектирования композитов
+streamlit
+pandas
+numpy
+scikit-learn==1.2.2
+joblib
+tensorflow
